@@ -14,27 +14,22 @@
     transform-origin: bottom;
 }
 #hour{
-    /* width: 0.65%;
-    height: 7%;
-    top: 9%;
-    left: 51.6%;
-    opacity: 0.8; */
-    width:1%;
-    height: 25%;
+    width:2%;
+    height: 20%;
     top: 31%;
     left: 49.05%;
     opacity: 0.8;
 }
 #minute{
-        width: 0.5%;
+        width: 1.5%;
         height: 38.5%;
-        top: 13.5%;
-        left: 49.7%;
+        top: 12.5%;
+        left: 48.7%;
         opacity: 0.8;
     }
     #second{
-        width: 0.4%;
-        height: 40%;
+        width: 1%;
+        height: 35%;
         top: 15%;
         left: 49.7%;
         opacity: 0.8;
